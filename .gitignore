@@ -1,5 +1,6 @@
 configs/blizz_conf.py
 configs/redis_conf.py
+configs/discord_conf.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
