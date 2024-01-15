@@ -5,5 +5,6 @@ r = redis.Redis(
         host="[ redis-hostname ]", port=[ redis port ],
         username="[ redis username ]",
         password="[ redis password ]",
-        ssl=True
+        ssl=True,
+        decode_responses=True
 )
